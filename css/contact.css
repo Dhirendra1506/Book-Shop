@@ -33,7 +33,8 @@
     background-image: url("/images/bg-img2.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background: linear-gradient(to bottom, #33ccff 0%, #cc00ff 100%);
+    background: rgb(46,255,3);
+background: linear-gradient(90deg, rgba(46,255,3,1) 0%, rgba(2,224,224,1) 100%, rgba(0,212,255,1) 100%);
 
 }
 .con-form
